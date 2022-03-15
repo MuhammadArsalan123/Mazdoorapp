@@ -80,7 +80,7 @@
         android:id="@+id/imageView3"
         android:layout_width="450dp"
         android:layout_height="268dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layou67890t_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
