@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MazdoorApp">
         <activity
+            android:name=".MainActivitySa"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="false" />
         <activity
